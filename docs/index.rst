@@ -1,4 +1,4 @@
-TotalAV My Account Login Help – Manage Your Antivirus Protection
+Total AV My Account Login Site – Manage Your Antivirus Protection
 ================================================================
 .. raw:: html
 
