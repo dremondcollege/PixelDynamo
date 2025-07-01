@@ -1,1 +1,1 @@
-# EchoBlog
+# PixelDynamo
